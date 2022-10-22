@@ -1,1 +1,1 @@
-# Bootstrap-Landing-Page
+# Bootstrap ile Langing Page Basit Örnek
